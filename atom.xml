@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Maple-snow的随想空间</title>
+  
+  <subtitle>欢迎最帅美的你!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-30T14:57:12.596Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Maple-snow</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新日志</title>
+    <link href="http://yoursite.com/2018/07/29/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    <id>http://yoursite.com/2018/07/29/更新日志/</id>
+    <published>2018-07-29T06:24:09.000Z</published>
+    <updated>2018-07-30T14:57:12.596Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;（一）&lt;br&gt;已更新:&lt;br&gt;1、主题更新:由原来的 Yelee 更新为 Next 主题；&lt;br&gt;2、界面更新:由原来的 Pisces 更新为 Mist 主题界面；&lt;br&gt;3、开放日程表功能（缺陷，待完善）&lt;/p&gt;
+&lt;p&gt;计划更新:&lt;br&gt;1、增加网页在线联系功能（修复）:
+      
+    
+    </summary>
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="更新" scheme="http://yoursite.com/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
+  
+</feed>
